@@ -305,5 +305,177 @@ border: none;
     top:780px ;
 }
 
+.location-page{
+  
 
 
+/* Ipaja Road, Volta Region */
+
+position: absolute;
+width: 341px;
+height: 42px;
+left: 156px;
+top: 163px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 148.5%;
+/* identical to box height, or 42px */
+
+color: #000000;
+
+
+}
+
+.inner{
+    /* Rectangle 31 */
+
+position: absolute;
+width: 1224px;
+height: 447px;
+left: 100px;
+top: 273px;
+
+background: rgba(196, 196, 196, 0.26);
+border-radius: 25px;
+
+}
+
+.imag{
+    /* truck-removebg-preview 1 */
+
+position: absolute;
+width: 602px;
+height: 469px;
+left: 387px;
+top: 60px;
+
+
+}
+
+.price{
+    /* Rectangle 32 */
+position: absolute;
+width: 340px;
+height: 71px;
+left: 166px;
+top: 316px;
+color: #FFFFFF;
+background: #05A415;
+border-radius: 20px;
+border: none;
+
+}
+
+.detail{
+    /* Rectangle 33 */
+
+position: absolute;
+width: 1239px;
+height: 186px;
+left: 85px;
+top: 773px;
+background: rgba(196, 196, 196, 0.22);
+}
+
+.one{
+    /* Driver : Mr Samuel */
+
+position: absolute;
+width: 230px;
+height: 37px;
+left: 127px;
+top: 41px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 148.5%;
+/* or 37px */
+
+color: #000000;
+
+
+}
+
+.two{
+    /* Plate Number: 213 543 23 */
+
+position: absolute;
+width: 314px;
+height: 37px;
+left: 127px;
+top: 87px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 148.5%;
+/* or 37px */
+
+color: #000000;
+
+
+}
+
+.three{
+    /* Distance: 2 minutes */
+
+position: absolute;
+width: 250px;
+height: 37px;
+left: 986px;
+top: 41px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 148.5%;
+/* or 37px */
+
+color: #000000;
+
+
+}
+
+.four{
+    /* Rating: 4.5/5 */
+
+position: absolute;
+width: 163px;
+height: 37px;
+left: 986px;
+top: 87px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 148.5%;
+/* or 37px */
+
+color: #000000;
+
+
+}
+
+
+
+.req{
+    /* Rectangle 34 */
+
+position: absolute;
+width: 231px;
+height: 71px;
+left: 589px;
+top: 84px;
+border: none;
+color: #FFFFFF;
+background: #05A415;
+border-radius: 20px;
+
+}

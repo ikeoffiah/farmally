@@ -7,24 +7,25 @@
 
 .body{
 font-family: 'Poppins';
-
 background: linear-gradient(114.27deg, #F9BC60 -67.45%, #FFFFFF 92.19%);
 }
+
+
 
 nav{    
 display: flex;
 height: 135px;
 left: 0px;
 top: 0px;
-background: #FFFFFF;
 }
+
+
 
 .navbar-brand > img{
 width: 200px;
 height: 56.39px;
 margin-left: 100px;
 top: 46px;
-
 }
 
 
@@ -32,7 +33,6 @@ top: 46px;
 
 .collapse > .form-inline{
     margin-left: auto;
-
 }
 
 
@@ -49,9 +49,6 @@ border-radius: 10px;
 
 
 .btn-color{
-    /* Rectangle 8 */
-
-
 width: 211px;
 height: 50px;
 left: 1074px;
@@ -68,46 +65,34 @@ border-radius: 10px;
 
 
 
-
+.head-img {
+    width: 50px;
+    height: 20px;
+}
 
 
 .heading{
-    /* Moving farm produce to market */
-
-width: 544px;
-
-
 margin-top: 100px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
 font-size: 50px;
 line-height: 75px;
-
 color: #000000;
 
 }
 
 .heading-text{
-    /* Easily move your products from farm to market with our state of the art logistics technology. */
-
-
-width: 593px;
 height: 93px;
-
-
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
 font-size: 25px;
-
-
 color: #6D6D6D;
-
-
 }
 
 .call-to-action{
+margin-top: 30px;
 width: 167px;
 height: 50px;
 left: 93px;
@@ -116,14 +101,13 @@ border: none;
 color: #FFFFFF;
 background: #05A415;
 border-radius: 10px;
-
 }
 
 
 .truck-header{
     /* Book a Truck! */
 
-position: absolute;
+
 width: 240px;
 height: 53px;
 left: 636px;
@@ -144,7 +128,6 @@ color: #000000;
 .truck-subheader{
     /* Move your farm produce to market faster! */
 
-position: absolute;
 width: 379px;
 height: 27px;
 left: 566px;
@@ -165,7 +148,7 @@ color: #6D6D6D;
 .location{
     /* Location */
 
-position: absolute;
+
 width: 68px;
 height: 24px;
 left: 522px;
@@ -176,8 +159,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-/* identical to box height */
-
 color: #000000;
 
 
@@ -188,7 +169,7 @@ color: #000000;
 
 box-sizing: border-box;
 
-position: absolute;
+
 width: 505px;
 height: 60px;
 left: 521px;
@@ -204,7 +185,7 @@ border-radius: 10px;
 .location1{
     /* Location */
 
-position: absolute;
+
 width: 68px;
 height: 24px;
 left: 522px;
@@ -227,7 +208,7 @@ color: #000000;
 
 box-sizing: border-box;
 
-position: absolute;
+
 width: 505px;
 height: 60px;
 left: 521px;
@@ -241,7 +222,6 @@ border-radius: 10px;
 
 .weight{
     
-position: absolute;
 width: 68px;
 height: 24px;
 left: 522px;
@@ -261,25 +241,38 @@ color: #000000;
     
 box-sizing: border-box;
 
-position: absolute;
 width: 505px;
 height: 60px;
 left: 521px;
 top: 639px;
-
 background: #FFFFFF;
 border: 1px solid #C4C4C4;
 border-radius: 10px;
 }
 
-.book-but{
-    /* Rectangle 29 */
+.form-group{
+    margin: 0 auto;
+    width: 505px;
+    margin-bottom: 20px;
+}
 
-position: absolute;
+label{
+    font-family: 'Poppins';
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.form-control{
+    height: 60px;
+}
+
+
+
+.book-but{
 width: 505px;
 height: 60px;
-left: 521px;
-top: 728px;
+
 color: #FFFFFF;
 background: #05A415;
 border-radius: 10px;
@@ -293,23 +286,19 @@ border: none;
 }
 
 .location-page{
-  
 
 
-/* Ipaja Road, Volta Region */
-
-position: absolute;
 width: 341px;
 height: 42px;
 left: 156px;
-top: 163px;
-
+margin-top: 30px;
+margin-bottom: 50px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
 font-size: 28px;
 line-height: 148.5%;
-/* identical to box height, or 42px */
+
 
 color: #000000;
 
@@ -317,14 +306,10 @@ color: #000000;
 }
 
 .inner{
-    /* Rectangle 31 */
-
-position: absolute;
-width: 1224px;
+width: 800px;
 height: 447px;
-left: 100px;
-top: 273px;
 
+margin: 0 auto;
 background: rgba(196, 196, 196, 0.26);
 border-radius: 25px;
 
@@ -333,54 +318,48 @@ border-radius: 25px;
 .imag{
     /* truck-removebg-preview 1 */
 
-position: absolute;
+
 width: 602px;
 height: 469px;
-left: 387px;
-top: 60px;
+margin: 0 auto;
+
 
 
 }
 
-.price{
+ .inner > .pice{
     /* Rectangle 32 */
-position: absolute;
+
 width: 340px;
 height: 71px;
 left: 166px;
-top: 316px;
-color: #FFFFFF;
-background: #05A415;
-border-radius: 20px;
-border: none;
+padding-top: 30px;
+padding-left: 30px;
+
+
+
 
 }
 
 .detail{
-    /* Rectangle 33 */
-
-position: absolute;
-width: 1239px;
+width: 800px;
 height: 186px;
-left: 85px;
+margin: 0 auto;
+margin-top: 30px;
 top: 773px;
-background: rgba(196, 196, 196, 0.22);
+margin-bottom: 30px;
 }
 
 .one{
-    /* Driver : Mr Samuel */
 
-position: absolute;
-width: 230px;
-height: 37px;
-left: 127px;
+
 top: 41px;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 25px;
-line-height: 148.5%;
+font-size: 20px;
+
 /* or 37px */
 
 color: #000000;
@@ -388,20 +367,20 @@ color: #000000;
 
 }
 
-.two{
-    /* Plate Number: 213 543 23 */
+.modal-content{
+    background-color: #F9BC60;
+}
 
-position: absolute;
-width: 314px;
-height: 37px;
-left: 127px;
+.two{
+
+
 top: 87px;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 25px;
-line-height: 148.5%;
+font-size: 20px;
+
 /* or 37px */
 
 color: #000000;
@@ -410,55 +389,43 @@ color: #000000;
 }
 
 .three{
-    /* Distance: 2 minutes */
+    
 
-position: absolute;
-width: 250px;
-height: 37px;
-left: 986px;
+
 top: 41px;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 25px;
-line-height: 148.5%;
+font-size: 20px;
+
 /* or 37px */
 
 color: #000000;
 
 
 }
+.j{
+    margin: 0 auto;
+}
 
 .four{
-    /* Rating: 4.5/5 */
 
-position: absolute;
-width: 163px;
-height: 37px;
-left: 986px;
 top: 87px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 25px;
-line-height: 148.5%;
-/* or 37px */
+font-size: 20px;
 
 color: #000000;
-
-
 }
 
 
 
 .req{
-    /* Rectangle 34 */
-
-position: absolute;
 width: 231px;
 height: 71px;
-left: 589px;
+margin: 0 auto;
 top: 84px;
 border: none;
 color: #FFFFFF;
